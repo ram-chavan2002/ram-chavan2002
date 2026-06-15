@@ -1,6 +1,6 @@
 Ram Chavan
 <br>
-Full stack python & php developer
+Full Stack Developer
 <br>
 Email :- ramchavan4636@gmail.com
 ## 🌐 Socials:
